@@ -8,7 +8,7 @@ metadata:
 spec:
   tls:
   - hosts:
-    - your-application-domain.com
+    application-domain.com
     secretName: wisecow-tls
   rules:
   - host: application-domain.com
